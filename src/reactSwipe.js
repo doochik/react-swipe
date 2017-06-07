@@ -39,7 +39,6 @@ class ReactSwipe extends Component {
       },
 
       child: {
-        float: 'left',
         width: '100%',
         position: 'relative',
         transitionProperty: 'transform'
